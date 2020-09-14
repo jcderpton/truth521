@@ -42,9 +42,9 @@ social-network-links:
   facebook: Lodge-of-Connaught-Truth-No-521-University-Freemasonry-in-Huddersfield-220799507932470
   twitter: truth_521
 
-  # If you want to show a link to an RSS in the footer, add the site description here.
+# If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -52,12 +52,10 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
-  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "truth521.org.uk"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
